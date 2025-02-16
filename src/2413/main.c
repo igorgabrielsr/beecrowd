@@ -5,4 +5,5 @@ int main() {
   scanf("%d", &t);
   count = t * 4;
   printf("%d\n", count);
+  return 0;
 }
